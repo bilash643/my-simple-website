@@ -5,4 +5,20 @@ div{
 margin-top: 10px;
 
 }
-
+img{
+    max-width: 200%;
+    height: 100%;
+    width: 500px;;
+    display: block;
+    margin: 0 auto;
+   
+    
+}
+.biltu{
+    font-size: x-larges;
+    color: crimson;
+    
+}
+.biltus{
+    font-style: italic;
+}
